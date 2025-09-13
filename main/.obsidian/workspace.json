@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "e17153176c5bff63",
+        "id": "5e4af89460b2660b",
         "type": "tabs",
         "children": [
           {
-            "id": "e763c2e42c831c9c",
+            "id": "f0a1cf7b3443c124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Алгоритмы/Стек.md",
+                "file": "study/JAVA/Интерфейс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стек"
+              "title": "Интерфейс"
+            }
+          },
+          {
+            "id": "505bcfff5a6c1a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/JAVA/Методы по умолчанию.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы по умолчанию"
+            }
+          },
+          {
+            "id": "73416144ba805391",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "db74e5f5a230e7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/JAVA/Инкапсуляция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Инкапсуляция"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Алгоритмы/Стек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Стек"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/Алгоритмы/Стек.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Стек"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -142,16 +179,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/Алгоритмы/Стек.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Стек"
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "16fa267299fe4e1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,32 +216,38 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e763c2e42c831c9c",
+  "active": "73416144ba805391",
   "lastOpenFiles": [
+    "study/JAVA/Инкапсуляция.md",
+    "Без названия.canvas",
+    "study/JAVA/ArrayList.md",
     "study/Алгоритмы/Рекурсия.md",
+    "study/JAVA/Массив.md",
+    "study/JAVA/Методы и объекты.md",
+    "study/JAVA/Методы по умолчанию.md",
     "study/Алгоритмы/Пример О-большого.md",
     "study/Алгоритмы/Линейное время.md",
     "study/Алгоритмы/Бинарный поиск.md",
     "study/Алгоритмы/Алгоритм.md",
-    "Добро пожаловать.md",
+    "study/JAVA/Идентификаторы и ключевые слова.md",
+    "study/JAVA/Implements.md",
+    "study/JAVA/Модификаторы доступа.md",
+    "study/JAVA/@Override.md",
     "study/Алгоритмы/Стек.md",
-    "study/JAVA/Циклы и условия.md",
-    "study/JAVA/Производный класс.md",
-    "study/JAVA/Переменные и типы данных.md",
-    "study/JAVA/Операторы и выражения.md",
-    "study/JAVA/Объект.md",
-    "study/JAVA/Методы и объекты.md",
-    "study/JAVA/Массив.md",
+    "метод.md",
+    "study/JAVA/Интерфейс.md",
+    "study/Английский.md",
     "study/JAVA/Конструктор.md",
     "study/JAVA/Комментарии.md",
     "study/JAVA/Класс.md",
-    "study/JAVA/Интерфейс.md",
-    "study/JAVA/Идентификаторы и ключевые слова.md",
-    "study/JAVA/Implements.md",
-    "study/JAVA/DAO.md",
-    "study/JAVA/ArrayList.md",
-    "study/JAVA/@Override.md",
-    "study/Английский.md",
+    "Без названия/Химия.md",
+    "Без названия/Наука.md",
+    "Без названия",
+    "папка/пакаппвы.md",
+    "papka/физика.md",
+    "папка",
+    "papka",
+    "study/JAVA/Производный класс.md",
     "study/Алгоритмы",
     "study/JAVA",
     "study",
