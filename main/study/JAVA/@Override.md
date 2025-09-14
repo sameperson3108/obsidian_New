@@ -1,4 +1,4 @@
-# @Override - аннотация(метка), которая указывает, что метод переопределяет метод родительского класса или реализует метод интерфейса.
+# @Override - аннотация(метка), которая указывает, что метод([[Методы и объекты]])  переопределяет метод родительского класса или реализует метод интерфейса.
 
 
 
@@ -55,7 +55,6 @@ class Circle implements Drawable {
 class Person {
 	private String name;
 	private int age;
-	
 	 @Override
 	 public boolean equals(Object obj) {
 	 if (this == obj) return true;
@@ -63,12 +62,10 @@ class Person {
 	 Person person = (Person) obj;
 	 return age == person.age && name.equals(person.name);
 	 }
-	 
 	 @Override
 	 public int hashCode() {
 		 return Objects.hash(name, age)
 	 }
-	 
 	 @Override
 	 public String toString() {
 	 return "Person{name'" + name + "', age=" + age + "}";
