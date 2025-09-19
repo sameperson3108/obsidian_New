@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/JAVA/Комментарии.md",
+                "file": "Инкапсуляция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Комментарии"
+              "title": "Инкапсуляция"
             }
           }
         ],
@@ -278,13 +278,16 @@
   },
   "active": "c47763c59e02c5c9",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Компиляция.md",
+    "Лекции алгоритмов Яндексе/1.md",
+    "Pasted image 20250919072138.png",
+    "study/JAVA/Комментарии.md",
     "study/JAVA/Класс.md",
     "study/JAVA/Интерфейс.md",
     "study/JAVA/Идентификаторы и ключевые слова.md",
     "study/JAVA/@Override.md",
-    "Лекции алгоритмов Яндексе/1.md",
     "Pasted image 20250916200745.png",
-    "Компиляция.md",
     "Лекции алгоритмов Яндексе",
     "Полиморфизм.md",
     "Наследование.md",
@@ -299,7 +302,6 @@
     "JRE (Java Runtime Environment).md",
     "study/Английский",
     "study/Английский/Английский.md",
-    "Без названия.md",
     "мысли",
     "JDK (Java Development Kit).md",
     "Pasted image 20250914121839.png",
@@ -307,8 +309,6 @@
     "study/SQL/Транзакции (ACID).md",
     "study/SQL/Типы данных (кроме стандартных).md",
     "study/SQL/Полезные функции.md",
-    "study/SQL/Основные операторы (CRUD).md",
-    "study/SQL/Ключевые предложения ( Clauses).md",
     "study/SQL",
     "Без названия.canvas",
     "папка",
