@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инкапсуляция.md",
+                "file": "youtube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инкапсуляция"
+              "title": "youtube"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -168,50 +168,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
   "active": "b3f2d65d660832e5",
   "lastOpenFiles": [
+    "Таблицы в бд (не финал).md",
+    "Полиморфизм.md",
+    "Полезные ссылки.md",
+    "План.md",
+    "Объектно-ориентированное программирование (ООП).md",
+    "Наследование.md",
+    "Модульное тестирование (unit).md",
+    "Компиляция.md",
+    "Кеширование.md",
+    "Интеграционное тестирование.md",
+    "Исключения.md",
+    "Инкапсуляция.md",
+    "Валидация параметров.md",
+    "Бизнес-логика.md",
+    "Без названия 5.md",
+    "Map ( не финал).md",
+    "Set (не финал).md",
+    "List(не финальный).md",
+    "Collections (не финальный вариант).md",
+    "Абстракция.md",
+    "Абстрактные классы.md",
     "30 дней - оценка.md",
     "досуг/Книги.md",
-    "Без названия 5.md",
+    "youtube.md",
     "endsWith().md",
-    "Без названия 4.md",
-    "Без названия 3.md",
-    "Без названия 2.md",
-    "Без названия 1.md",
     "Pasted image 20250928122932.png",
     "List.md",
-    "study/CSharp + Unity/Без названия.md",
-    "Полезные ссылки.md",
-    "Абстрактные классы.md",
-    "study/JAVA/Класс.md",
-    "мысли/Мысли.md",
-    "Лекции алгоритмов Яндексе/1.md",
     "досуг",
     "Pasted image 20250922133330.png",
     "Pasted image 20250922133018.png",
     "Pasted image 20250921082740.png",
     "Pasted image 20250916200745.png",
     "Pasted image 20250914121839.png",
-    "Без названия.md",
-    "study/Без названия.md",
     "study/CSharp + Unity",
-    "Абстракция.md",
-    "youtube.md",
-    "План.md",
-    "study/JAVA/Интерфейс.md",
-    "Интерфейс.md",
-    "Исключения.md",
-    "study/JAVA/Модификаторы доступа.md",
-    "this.md",
     "Pasted image 20250919072138.png",
     "Лекции алгоритмов Яндексе",
     "study/Английский",
