@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c12a882fbad7d4de",
+        "id": "3947012a278c78e2",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f2d65d660832e5",
+            "id": "fd9cdd4ffb99ec4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "youtube.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "youtube"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "right": {
     "id": "e96f692a4020ef3e",
@@ -177,51 +173,50 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b3f2d65d660832e5",
+  "active": "728dd4f44d0d903b",
   "lastOpenFiles": [
-    "Таблицы в бд (не финал).md",
-    "Полиморфизм.md",
     "Полезные ссылки.md",
-    "План.md",
-    "Объектно-ориентированное программирование (ООП).md",
-    "Наследование.md",
-    "Модульное тестирование (unit).md",
-    "Компиляция.md",
-    "Кеширование.md",
-    "Интеграционное тестирование.md",
-    "Исключения.md",
-    "Инкапсуляция.md",
-    "Валидация параметров.md",
-    "Бизнес-логика.md",
-    "Без названия 5.md",
-    "Map ( не финал).md",
-    "Set (не финал).md",
-    "List(не финальный).md",
-    "Collections (не финальный вариант).md",
-    "Абстракция.md",
-    "Абстрактные классы.md",
-    "30 дней - оценка.md",
-    "досуг/Книги.md",
+    "Pasted image/IMG.md",
+    "Pasted image/Pasted image 20250914121839.png",
+    "Pasted image",
+    "Pasted image/Pasted image 20250916200745.png",
+    "Pasted image/Pasted image 20250919072138.png",
+    "Pasted image/Pasted image 20250922133018.png",
+    "Pasted image/Pasted image 20250922133330.png",
+    "Pasted image/Pasted image 20250928122932.png",
+    "study/JAVA/this.md",
     "youtube.md",
-    "endsWith().md",
-    "Pasted image 20250928122932.png",
-    "List.md",
+    "study/JAVA/StringBuilder.md",
+    "study/JAVA/Set (не финал).md",
+    "study/JAVA/Map ( не финал).md",
+    "study/JAVA/List(не финальный).md",
+    "study/JAVA/JDK (Java Development Kit).md",
+    "study/JAVA/Image.md",
+    "study/JAVA/endsWith().md",
+    "study/JAVA/Collections (не финальный вариант).md",
+    "study/SQL/Таблицы в бд (не финал).md",
+    "study/ООП/Полиморфизм.md",
+    "study/ООП/Объектно-ориентированное программирование (ООП).md",
+    "План.md",
+    "study/ООП/Наследование.md",
+    "study/JAVA/Модульное тестирование (unit).md",
+    "study/JAVA/Компиляция.md",
+    "study/JAVA/Кеширование.md",
+    "study/JAVA/Исключения.md",
+    "study/JAVA/Интеграционное тестирование.md",
+    "study/ООП/Инкапсуляция.md",
+    "Инкапсуляция.md",
+    "study/JAVA/Валидация параметров.md",
+    "study/ООП",
     "досуг",
-    "Pasted image 20250922133330.png",
-    "Pasted image 20250922133018.png",
-    "Pasted image 20250921082740.png",
-    "Pasted image 20250916200745.png",
-    "Pasted image 20250914121839.png",
+    "Pasted image/Pasted image 20250921082740.png",
     "study/CSharp + Unity",
-    "Pasted image 20250919072138.png",
     "Лекции алгоритмов Яндексе",
     "study/Английский",
     "мысли",
     "study/SQL",
     "Без названия.canvas",
     "папка",
-    "papka",
-    "study/Алгоритмы",
-    "study/JAVA"
+    "papka"
   ]
 }
