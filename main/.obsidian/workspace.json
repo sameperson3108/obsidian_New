@@ -11,14 +11,14 @@
             "id": "fd9cdd4ffb99ec4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "study/ООП/Абстракция.md",
-                "mode": "source",
-                "source": false
+                "aFile": "main/.obsidian/workspace.json",
+                "bFile": "main/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Абстракция"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "fd9cdd4ffb99ec4b",
   "lastOpenFiles": [
+    "study/ООП/Абстракция.md",
     "study/Алгоритмы/Стек.md",
     "study/Алгоритмы/Сложность алгоритма.md",
     "study/Алгоритмы/Рекурсия.md",
@@ -196,7 +197,6 @@
     "study/Алгоритмы/Линейное время.md",
     "study/Алгоритмы/Бинарный поиск.md",
     "study/Алгоритмы/Алгоритм.md",
-    "study/ООП/Абстракция.md",
     "study/Английский/Английский.md",
     "Pasted image/Pasted image 20250928122932.png",
     "Pasted image/Pasted image 20250922133330.png",
