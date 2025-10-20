@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2a25b5c7f025d9f",
+            "id": "c342777421abe34e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaRoadMap/Java Core lvl/Операторы ветвления/Ветвление.md",
+                "file": "JavaRoadMap/Java Core lvl 1/Примитивные типы даных/Примитивные типы данных.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ветвление"
+              "title": "Примитивные типы данных"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 334.5
   },
   "right": {
     "id": "e96f692a4020ef3e",
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,51 +176,50 @@
       "bases:Create new base": false
     }
   },
-  "active": "728dd4f44d0d903b",
+  "active": "c342777421abe34e",
   "lastOpenFiles": [
-    "JavaRoadMap/Java Core lvl/Отладка программ (debug)/Отладка программ(debug).md",
-    "JavaRoadMap/Java Core lvl/Массивы/Многомерные.md",
-    "JavaRoadMap/Java Core lvl/Отладка программ (debug)",
-    "JavaRoadMap/Java Core lvl/Массивы/Одномерные.md",
-    "JavaRoadMap/Java Core lvl/Циклы/While.md",
-    "JavaRoadMap/Java Core lvl/Массивы",
-    "JavaRoadMap/Java Core lvl/Циклы/For.md",
-    "JavaRoadMap/Java Core lvl/Циклы/Рекурсия.md",
-    "JavaRoadMap/Java Core lvl/Функции (методы)/Функции.md",
-    "JavaRoadMap/Java Core lvl/Циклы",
-    "JavaRoadMap/Java Core lvl/Операторы ветвления/switch.md",
-    "JavaRoadMap/Java Core lvl/Функции (методы)",
-    "JavaRoadMap/Java Core lvl/Операторы ветвления/if-else.md",
-    "JavaRoadMap/Java Core lvl/Операторы ветвления/Ветвление.md",
-    "JavaRoadMap/Java Core lvl/Переменные и операции с ними/Операции с переменными.md",
-    "JavaRoadMap/Java Core lvl/Операторы ветвления",
-    "JavaRoadMap/Java Core lvl/Переменные и операции с ними/Переменная.md",
-    "JavaRoadMap/Java Core lvl/Примитивные типы даных/Примитивные типы данных.md",
-    "JavaRoadMap/Java Core lvl/Переменные и операции с ними",
-    "заметки по собесу.md",
-    "JavaRoadMap/Java Core lvl/Примитивные типы даных",
-    "JavaRoadMap/Java Core lvl",
-    "JavaRoadMap",
-    "собеседования ответы сам.md",
-    "study/Алгоритмы/Алгоритм.md",
-    "собеседование ответы в видео.md",
-    "study/Алгоритмы/Пример О-большого.md",
+    "досуг/Книги.md",
+    "Заметки при решении code wars.md",
     "Untitled.base",
-    "study/ООП/Абстракция.md",
-    "study/Алгоритмы/Стек.md",
-    "study/Алгоритмы/Сложность алгоритма.md",
-    "study/Алгоритмы/Рекурсия.md",
-    "study/Алгоритмы/Линейное время.md",
-    "study/Алгоритмы/Бинарный поиск.md",
-    "study/Английский/Английский.md",
     "Pasted image/Pasted image 20250928122932.png",
-    "Pasted image/Pasted image 20250922133330.png",
     "Pasted image/Pasted image 20250922133018.png",
     "Pasted image/Pasted image 20250921082740.png",
     "Pasted image/Pasted image 20250919072138.png",
     "Pasted image/Pasted image 20250916200745.png",
     "Pasted image/IMG.md",
+    "Pasted image/Pasted image 20250922133330.png",
     "Pasted image/Pasted image 20250914121839.png",
+    "study/Английский/Английский.md",
+    "JavaRoadMap/Java Core lvl 2/Stack & Heap/Stack.md",
+    "study/Алгоритмы/Стек.md",
+    "study/Алгоритмы/Сложность алгоритма.md",
+    "study/Алгоритмы/Рекурсия.md",
+    "study/Алгоритмы/Пример О-большого.md",
+    "study/Алгоритмы/Линейное время.md",
+    "study/Алгоритмы/Бинарный поиск.md",
+    "study/Алгоритмы/Алгоритм.md",
+    "JavaRoadMap/Java Core lvl 2/Классы и объекты/Объект/Объект.md",
+    "study/JAVA/Валидация параметров.md",
+    "study/JAVA/Операторы и выражения.md",
+    "study/JAVA/Абстрактные классы.md",
+    "study/JAVA/Переменные и типы данных.md",
+    "study/JAVA/Производный класс.md",
+    "study/JAVA/Циклы и условия.md",
+    "study/JAVA/ArrayList.md",
+    "study/JAVA/Collections (не финальный вариант).md",
+    "study/JAVA/DAO.md",
+    "study/JAVA/Объект.md",
+    "study/JAVA/this.md",
+    "study/JAVA/Методы и объекты.md",
+    "JavaRoadMap/Java",
+    "JavaRoadMap/Java Core lvl 2/Многопоточность/thread lifecycle, ExecutorService, Callable Future",
+    "JavaRoadMap/Java Core lvl 2/Потоки ввода-вывода/Serializable",
+    "JavaRoadMap/Java Core lvl 2/Структуры данных/Queue, Deque, PriorityQueue",
+    "JavaRoadMap/Java Core lvl 2/Структуры данных/Comparable и Comparator",
+    "JavaRoadMap/Java Core lvl 2/Методы Object",
+    "JavaRoadMap/Java Core lvl 2/immutable объекты",
+    "JavaRoadMap/Java Core lvl 2/Классы и объекты/Wrapper-классы",
+    "JavaRoadMap/Java Core lvl 2/Классы и объекты/Объект",
     "Без названия.canvas"
   ]
 }
