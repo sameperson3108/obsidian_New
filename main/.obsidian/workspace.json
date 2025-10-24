@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Алгоритмы/Бинарный поиск.md",
+                "file": "LeetCode/Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бинарный поиск"
+              "title": "Contains Duplicate"
+            }
+          },
+          {
+            "id": "d6197e7a9311c5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sqrt(x).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sqrt(x)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,12 +233,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "5dc9a234e08689d0",
+  "active": "d6197e7a9311c5c2",
   "lastOpenFiles": [
+    "LeetCode/Contains Duplicate.md",
+    "Sqrt(x).md",
+    "study/Алгоритмы/Бинарный поиск.md",
     "study/Алгоритмы/Алгоритм.md",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Set/HashSet.md",
     "Untitled.base",
-    "LeetCode/Contains Duplicate.md",
     "LeetCode/Two Sums.md",
     "LeetCode/Valid Anangram.md",
     "V",
@@ -234,7 +250,6 @@
     "JavaRoadMap/Java Core lvl 2/Интерфейс/Аннотации.md",
     "JavaRoadMap/Java Core lvl 2/Вложенные классы/Вложенные классы.md",
     "study/Алгоритмы/Линейное время.md",
-    "study/Алгоритмы/Бинарный поиск.md",
     "Заметки при решении code wars.md",
     "Pasted image/Pasted image 20250928122932.png",
     "Pasted image/Pasted image 20250922133018.png",
@@ -254,7 +269,6 @@
     "JavaRoadMap/Java/JRE (Java Runtime Environment).md",
     "JavaRoadMap/Java/JDK (Java Development Kit).md",
     "JavaRoadMap/Java/Java Virtual Machine (JVM).md",
-    "досуг/Книги.md",
     "Pasted image/Pasted image 20250922133330.png",
     "Pasted image/Pasted image 20250914121839.png",
     "JavaRoadMap/Java",
