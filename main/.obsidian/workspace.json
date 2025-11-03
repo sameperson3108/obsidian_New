@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95eb543ef5793394",
+        "id": "30e51e057f3ac0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5f096d8a7208e14b",
+            "id": "3dd530f3a1e9f086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3498. Reverse Degree of a String.md",
+                "file": "JavaRoadMap/Git/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3498. Reverse Degree of a String"
+              "title": "Git"
             }
           }
         ]
@@ -176,19 +176,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f096d8a7208e14b",
+  "active": "3dd530f3a1e9f086",
   "lastOpenFiles": [
+    "JavaRoadMap/Git",
+    "JavaRoadMap/Git/Git.md",
+    "JavaRoadMap/Java/Java Virtual Machine (JVM).md",
+    "JavaRoadMap/LeetCode/3280. Convert Date to Binary.md",
+    "Untitled.base",
+    "JavaRoadMap/LeetCode/Untitled.base",
+    "JavaRoadMap/LeetCode/1108. Defanging an IP Address.md",
+    "JavaRoadMap/LeetCode/242. Valid Anangram.md",
+    "JavaRoadMap/LeetCode/69. Sqrt(x).md",
+    "JavaRoadMap/LeetCode/2. Add Two Numbers.md",
+    "JavaRoadMap/LeetCode/1. Two Sums.md",
+    "JavaRoadMap/LeetCode/3498. Reverse Degree of a String.md",
+    "JavaRoadMap/LeetCode/рассмотренные",
+    "Вопросы по спрингу.md",
+    "JavaRoadMap/LeetCode/2798. Number of Employees Who Met the Target.md",
     "JavaRoadMap/LeetCode/771. Jewels and Stones.md",
     "JavaRoadMap/LeetCode/1512. Number of Good Pairs.md",
-    "3498. Reverse Degree of a String.md",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Структуры данных.md",
-    "Untitled.base",
     "досуг/Книги.md",
-    "JavaRoadMap/LeetCode/2. Add Two Numbers.md",
     "JavaRoadMap/LeetCode/2413. Smallest Even Multiple.md",
     "JavaRoadMap/LeetCode/3668. Restore Finishing Order.md",
     "JavaRoadMap/LeetCode/3516. Find Closest Person.md",
-    "JavaRoadMap/LeetCode/1108. Defanging an IP Address.md",
     "JavaRoadMap/LeetCode/2011. Final Value of Variable After Performing Operations.md",
     "JavaRoadMap/LeetCode/1929. Concatenation of Array.md",
     "JavaRoadMap/LeetCode/1920. Build Array from Permutation.md",
@@ -196,15 +207,6 @@
     "JavaRoadMap/LeetCode/1688. Count of Matches in Tournament.md",
     "JavaRoadMap/LeetCode/3701. Compute Alternating Sum.md",
     "JavaRoadMap/JDBC/DAO/DAO.md",
-    "JavaRoadMap/JDBC/Connection pool/Connection pool.md",
-    "JavaRoadMap/JDBC/Batch запросы/Batch-запросы.md",
-    "JavaRoadMap/JDBC/Транзакции/Транзакции.md",
-    "JavaRoadMap/JDBC/java.sql package/java.sql.package.md",
-    "JavaRoadMap/JDBC/properties files/properties files.md",
-    "JavaRoadMap/JDBC/JDBC driver/JDBC driver.md",
-    "JavaRoadMap/SQL/DWH/DWH.md",
-    "JavaRoadMap/SQL/Транзакции/Транзакции.md",
-    "JavaRoadMap/SQL/Работа с СУБД через командную строку/Работа с СУБД через командную строку.md",
     "JavaRoadMap/JDBC/properties files",
     "JavaRoadMap/JDBC/DAO",
     "JavaRoadMap/JDBC/Connection pool",
@@ -212,8 +214,6 @@
     "JavaRoadMap/JDBC/Транзакции",
     "JavaRoadMap/JDBC/java.sql package",
     "Pasted image/Properties files",
-    "Untitled 6",
-    "Untitled 5",
     "Pasted image/Pasted image 20251028152708.png",
     "Pasted image/Pasted image 20251028150828.png",
     "Pasted image/Pasted image 20250928122932.png",
