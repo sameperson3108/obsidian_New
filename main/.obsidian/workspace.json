@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30e51e057f3ac0a5",
+        "id": "ee20fdacce12d5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3dd530f3a1e9f086",
+            "id": "2f2c819b65b39460",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaRoadMap/Git/Git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "New tab"
             }
           }
         ]
@@ -176,44 +172,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "3dd530f3a1e9f086",
+  "active": "2f2c819b65b39460",
   "lastOpenFiles": [
-    "JavaRoadMap/Git",
+    "Лекция яндекс 2 Линейный поиск.md",
+    "JavaRoadMap/LeetCode/3512. Minimum Operations to Make Array Sum Divisible by K.md",
+    "3. Longest Substring Without Repeating Characters.md",
+    "JavaRoadMap/LeetCode/1684. Count the Number of Consistent Strings.md",
+    "3467. Transform Array by Parity.md",
+    "1863. Sum of All Subset XOR Totals.md",
+    "Pasted image/Pasted image 20251104200954.png",
+    "Pasted image/Pasted image 20251104200819.png",
+    "Untitled.base",
+    "Вопросы по спрингу.md",
+    "JavaRoadMap/LeetCode/рассмотренные/1512. Number of Good Pairs.md",
+    "JavaRoadMap/LeetCode/рассмотренные/3541. Find Most Frequent Vowel and Consonant.md",
+    "JavaRoadMap/LeetCode/1. Two Sums.md",
+    "JavaRoadMap/LeetCode/рассмотренные/3289. The Two Sneaky Numbers of Digitville.md",
+    "Заметки при решении code wars.md",
     "JavaRoadMap/Git/Git.md",
+    "JavaRoadMap/Git",
     "JavaRoadMap/Java/Java Virtual Machine (JVM).md",
     "JavaRoadMap/LeetCode/3280. Convert Date to Binary.md",
-    "Untitled.base",
     "JavaRoadMap/LeetCode/Untitled.base",
     "JavaRoadMap/LeetCode/1108. Defanging an IP Address.md",
     "JavaRoadMap/LeetCode/242. Valid Anangram.md",
     "JavaRoadMap/LeetCode/69. Sqrt(x).md",
     "JavaRoadMap/LeetCode/2. Add Two Numbers.md",
-    "JavaRoadMap/LeetCode/1. Two Sums.md",
     "JavaRoadMap/LeetCode/3498. Reverse Degree of a String.md",
     "JavaRoadMap/LeetCode/рассмотренные",
-    "Вопросы по спрингу.md",
     "JavaRoadMap/LeetCode/2798. Number of Employees Who Met the Target.md",
     "JavaRoadMap/LeetCode/771. Jewels and Stones.md",
-    "JavaRoadMap/LeetCode/1512. Number of Good Pairs.md",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Структуры данных.md",
     "досуг/Книги.md",
     "JavaRoadMap/LeetCode/2413. Smallest Even Multiple.md",
     "JavaRoadMap/LeetCode/3668. Restore Finishing Order.md",
-    "JavaRoadMap/LeetCode/3516. Find Closest Person.md",
-    "JavaRoadMap/LeetCode/2011. Final Value of Variable After Performing Operations.md",
-    "JavaRoadMap/LeetCode/1929. Concatenation of Array.md",
-    "JavaRoadMap/LeetCode/1920. Build Array from Permutation.md",
-    "JavaRoadMap/LeetCode/2894. Divisible and Non-divisible Sums Difference.md",
-    "JavaRoadMap/LeetCode/1688. Count of Matches in Tournament.md",
-    "JavaRoadMap/LeetCode/3701. Compute Alternating Sum.md",
-    "JavaRoadMap/JDBC/DAO/DAO.md",
     "JavaRoadMap/JDBC/properties files",
     "JavaRoadMap/JDBC/DAO",
     "JavaRoadMap/JDBC/Connection pool",
     "JavaRoadMap/JDBC/Batch запросы",
     "JavaRoadMap/JDBC/Транзакции",
     "JavaRoadMap/JDBC/java.sql package",
-    "Pasted image/Properties files",
     "Pasted image/Pasted image 20251028152708.png",
     "Pasted image/Pasted image 20251028150828.png",
     "Pasted image/Pasted image 20250928122932.png",
@@ -222,7 +220,6 @@
     "Pasted image/Pasted image 20250919072138.png",
     "Pasted image/Pasted image 20250916200745.png",
     "Pasted image/Pasted image 20250922133330.png",
-    "Pasted image/Pasted image 20250914121839.png",
     "Без названия.canvas"
   ]
 }
