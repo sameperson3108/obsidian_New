@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee20fdacce12d5e1",
+        "id": "e2fcf2f29af14b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2c819b65b39460",
+            "id": "d3c5da17c4f10b96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3162. Find the Number of Good Pairs I.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3162. Find the Number of Good Pairs I"
             }
           }
         ]
@@ -172,8 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f2c819b65b39460",
+  "active": "d3c5da17c4f10b96",
   "lastOpenFiles": [
+    "3162. Find the Number of Good Pairs I.md",
+    "3340. Check Balanced String.md",
     "Лекция яндекс 2 Линейный поиск.md",
     "JavaRoadMap/LeetCode/3512. Minimum Operations to Make Array Sum Divisible by K.md",
     "3. Longest Substring Without Repeating Characters.md",
@@ -204,8 +210,6 @@
     "JavaRoadMap/LeetCode/771. Jewels and Stones.md",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Структуры данных.md",
     "досуг/Книги.md",
-    "JavaRoadMap/LeetCode/2413. Smallest Even Multiple.md",
-    "JavaRoadMap/LeetCode/3668. Restore Finishing Order.md",
     "JavaRoadMap/JDBC/properties files",
     "JavaRoadMap/JDBC/DAO",
     "JavaRoadMap/JDBC/Connection pool",
