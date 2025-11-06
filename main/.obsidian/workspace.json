@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3162. Find the Number of Good Pairs I.md",
+                "file": "3190. Find Minimum Operations to Make All Elements Divisible by Three.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3162. Find the Number of Good Pairs I"
+              "title": "3190. Find Minimum Operations to Make All Elements Divisible by Three"
+            }
+          },
+          {
+            "id": "fc2b53a61e5bef83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1662. Check If Two String Arrays are Equivalent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1662. Check If Two String Arrays are Equivalent"
+            }
+          },
+          {
+            "id": "e9987511b976b013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1470. Shuffle the Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1470. Shuffle the Array"
+            }
+          },
+          {
+            "id": "f1b0ccc3ce6236ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "561. Array Partition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "561. Array Partition"
+            }
+          },
+          {
+            "id": "581bbe9984ca505b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1486. XOR Operation in an Array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1486. XOR Operation in an Array"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,9 +233,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3c5da17c4f10b96",
+  "active": "581bbe9984ca505b",
   "lastOpenFiles": [
-    "3162. Find the Number of Good Pairs I.md",
+    "561. Array Partition.md",
+    "1486. XOR Operation in an Array.md",
+    "1470. Shuffle the Array.md",
+    "1662. Check If Two String Arrays are Equivalent.md",
+    "3190. Find Minimum Operations to Make All Elements Divisible by Three.md",
     "3340. Check Balanced String.md",
     "Лекция яндекс 2 Линейный поиск.md",
     "JavaRoadMap/LeetCode/3512. Minimum Operations to Make Array Sum Divisible by K.md",
@@ -206,10 +267,6 @@
     "JavaRoadMap/LeetCode/2. Add Two Numbers.md",
     "JavaRoadMap/LeetCode/3498. Reverse Degree of a String.md",
     "JavaRoadMap/LeetCode/рассмотренные",
-    "JavaRoadMap/LeetCode/2798. Number of Employees Who Met the Target.md",
-    "JavaRoadMap/LeetCode/771. Jewels and Stones.md",
-    "JavaRoadMap/Java Core lvl 2/Структуры данных/Структуры данных.md",
-    "досуг/Книги.md",
     "JavaRoadMap/JDBC/properties files",
     "JavaRoadMap/JDBC/DAO",
     "JavaRoadMap/JDBC/Connection pool",
