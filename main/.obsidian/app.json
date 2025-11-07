@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Pasted image",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "новые заметки"
 }
