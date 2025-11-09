@@ -11,10 +11,14 @@
             "id": "1aa7ae4c2c26e5fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/ЗАМЕТКА ОБУЧЕНИЯ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "ЗАМЕТКА ОБУЧЕНИЯ"
             }
           }
         ]
@@ -174,6 +178,7 @@
   },
   "active": "1aa7ae4c2c26e5fe",
   "lastOpenFiles": [
+    "новые заметки/поставить через эмулятор демон соулс.md",
     "JavaRoadMap/Алгоритмы/Бинарный поиск.md",
     "templates/ЗАМЕТКА ОБУЧЕНИЯ.md",
     "новые заметки/Сделать шаблон для заметки.md",
@@ -201,7 +206,6 @@
     "JavaRoadMap/Java Core lvl 1/Циклы/For.md",
     "JavaRoadMap/Java Core lvl 1/Циклы/Рекурсия.md",
     "JavaRoadMap/Java Core lvl 1/Переменные и операции с ними/Переменная.md",
-    "JavaRoadMap/Java Core lvl 1/Переменные и операции с ними/Операции с переменными.md",
     "Untitled.base",
     "JavaRoadMap/названия папок",
     "Image/Pasted image 20250916200745.png",
