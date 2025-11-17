@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "досуг/Книги/Грокаем алгоритмы - Адитья Бхаргава.md",
+                "file": "досуг/Книги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Грокаем алгоритмы - Адитья Бхаргава"
+              "title": "Книги"
             }
           }
         ],
@@ -191,15 +191,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8c3406061ac9071c",
+  "active": "728dd4f44d0d903b",
   "lastOpenFiles": [
-    "Pasted image/Pasted image 20251116201950.png",
-    "Pasted image/Pasted image 20251116190113.png",
-    "Pasted image/Pasted image 20251116113759.png",
-    "Pasted image/Pasted image 20251116080918.png",
-    "Pasted image",
-    "досуг/Книги.md",
     "досуг/Книги/Грокаем алгоритмы - Адитья Бхаргава.md",
+    "досуг/Книги.md",
+    "Pasted image/Pasted image 20251117115131.png",
+    "Pasted image/Pasted image 20251117114956.png",
+    "Pasted image/Pasted image 20251117114437.png",
+    "Pasted image/Pasted image 20251117114226.png",
+    "Pasted image/Pasted image 20251117113523.png",
+    "Pasted image/Pasted image 20251117112517.png",
+    "Pasted image/Pasted image 20251117110932.png",
+    "Pasted image/Pasted image 20251117093111.png",
+    "Pasted image/Pasted image 20251117093000.png",
+    "Pasted image/Pasted image 20251117090616.png",
+    "Pasted image",
     "досуг/Книги",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Iterable/Collection/List/Vector/Stack.md",
     "новые заметки/Invalid date.md",
@@ -228,14 +234,7 @@
     "JavaRoadMap/Java Core lvl 2/ООП/Наследование.md",
     "JavaRoadMap/Java Core lvl 2/ООП/Инкапсуляция.md",
     "JavaRoadMap/названия папок",
-    "Image/Pasted image 20250916200745.png",
     "новые заметки",
-    "Image/Pasted image 20250919072138.png",
-    "Image/Pasted image 20250921082740.png",
-    "Image/Pasted image 20250922133018.png",
-    "Image/Pasted image 20250928122932.png",
-    "Image/Pasted image 20251028150828.png",
-    "Image/Pasted image 20251028152708.png",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Map/SortedMap",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Iterable/Collection/Queue/Deque",
     "JavaRoadMap/Java Core lvl 2/Структуры данных/Iterable/Collection/Queue",

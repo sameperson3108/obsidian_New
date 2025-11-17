@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pasted image",
   "newFileLocation": "folder",
-  "newFileFolderPath": "новые заметки"
+  "newFileFolderPath": "новые заметки",
+  "spellcheck": false
 }
