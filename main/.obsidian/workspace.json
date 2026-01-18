@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/6 часов Spring Boot 2026 c НУЛЯ до PRO.md",
+                "file": "досуг/Книги/Java Полное руководство Герберт Шилдт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 часов Spring Boot 2026 c НУЛЯ до PRO"
+              "title": "Java Полное руководство Герберт Шилдт"
+            }
+          },
+          {
+            "id": "b1f80e9f1fea5ffb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Введение в SQL на stepik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Введение в SQL на stepik"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,17 +254,18 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b362b2133d3cc7fa",
+  "active": "b1f80e9f1fea5ffb",
   "lastOpenFiles": [
-    "Pasted image 20260107132235.png",
-    "Pasted image 20260107132017.png",
-    "Pasted image 20260107130906.png",
     "досуг/Книги/Java Полное руководство Герберт Шилдт.md",
+    "Введение в SQL на stepik.md",
+    "Spring/6 часов Spring Boot 2026 c НУЛЯ до PRO.md",
+    "Pasted image/Pasted image 20260107132235.png",
+    "Pasted image/Pasted image 20260107132017.png",
+    "Pasted image/Pasted image 20260107130906.png",
     "досуг/Книги.md",
     "досуг/Книги/Распределенные системы - Эндрю Таненбаум и Мартен ван Стин.md",
     "досуг/Книги/Грокаем алгоритмы - Адитья Бхаргава.md",
     "досуг/Книги/Java Concurency in Practice - Brian Goetz.md",
-    "Spring/6 часов Spring Boot 2026 c НУЛЯ до PRO.md",
     "Spring/@RestController.md",
     "Spring",
     "Spring",
