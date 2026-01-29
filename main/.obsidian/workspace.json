@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Java Полное руководство Герберт Шилдт"
             }
-          },
-          {
-            "id": "b1f80e9f1fea5ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Введение в SQL на stepik.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Введение в SQL на stepik"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,10 +240,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b1f80e9f1fea5ffb",
+  "active": "b362b2133d3cc7fa",
   "lastOpenFiles": [
-    "досуг/Книги/Java Полное руководство Герберт Шилдт.md",
     "Введение в SQL на stepik.md",
+    "досуг/Книги/Java Полное руководство Герберт Шилдт.md",
     "Spring/6 часов Spring Boot 2026 c НУЛЯ до PRO.md",
     "Pasted image/Pasted image 20260107132235.png",
     "Pasted image/Pasted image 20260107132017.png",
